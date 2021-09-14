@@ -1,1 +1,3 @@
 # cmake_example
+
+test
